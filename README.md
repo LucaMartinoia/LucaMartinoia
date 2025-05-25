@@ -7,3 +7,6 @@ My research interests lie at the intersection between high-energy, statistical a
 
 ### Hobbies
 I like mountains in all seasons, particularly hiking and skiing. On a more day-to-day basis, I enjoy videogames (in particular Soulsborne-like ones), TV series and cooking pizzas.
+
+> “If you thought that science was certain - well, that is just an error on your part.”
+> Richard P. Feynman

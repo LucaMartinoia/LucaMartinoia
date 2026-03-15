@@ -1,12 +1,12 @@
 # About me
-### Short intro
-I obtained my Ph.D. in theoretical physics from the University of Genova, then I moved to the University of Padova as a postdoctoral researcher in theoretical neuroscience. After my postdoc in Padova I left the academia and moved to an industry position. I am now working as Project Engineer at [STAM S.r.l.](https://www.stamtech.com/), doing research within the Horizon Europe program in Air Traffic Management and Defence.
+I am a Project Engineer at STAM, working in R&D for European Space and Defence programs. I have more than five years of experience in theoretical and applied research across physics, mathematics, and engineering.
 
-### Research interests
-My research interests lie at the intersection between high-energy, statistical and condensed matter physics. My research focuses mostly on the theory of hydrodynamics and its extensions, in particular what happens when the charges of the system are only approximately conserved. Recently, I am developing a strong interest in the hydrodynamic description of active and soft matter. While in Padova, I also worked on stochastic neural networks and linear response theory.
+My work focuses on modelling and understanding complex systems. I specialize in breaking down difficult or poorly defined problems, developing simplified models and algorithms that capture the essential dynamics, and translating them into computational tools and simulations.
 
-### Hobbies
-I like mountains in all seasons, particularly hiking and skiing. On a more day-to-day basis, I enjoy videogames (in particular Soulsborne-like ones), TV series and cooking pizzas.
+During my Ph.D. I worked at the intersection between high-energy physics, statistical physics, and condensed matter theory. This training provided a strong foundation in mathematical modelling, analytical reasoning, and complex systems.
+
+My current activities focus on the development of advanced modelling and simulation tools for Air Traffic Management and surveillance systems. I lead the technical design and development of a simulator to model ADS-B surveillance behaviour, cyber-threat scenarios such as spoofing and jamming, and the effectiveness of potential countermeasure strategies.
 
 > “If you thought that science was certain - well, that is just an error on your part.”
 > Richard P. Feynman
+

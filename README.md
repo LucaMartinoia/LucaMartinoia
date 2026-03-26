@@ -1,11 +1,11 @@
 # About me
-I am a Project Engineer at STAM, working in R&D for European Space and Defence programs. I have more than five years of experience in theoretical and applied research across physics, mathematics, and engineering.
+I have more than five years of experience in theoretical and applied research across physics, mathematics, and engineering. My work focuses on modelling complex systems and developing algorithms, computational tools, and simulations to analyse system behaviour.
 
-My work focuses on modelling and understanding complex systems. I specialize in breaking down difficult or poorly defined problems, developing simplified models and algorithms that capture the essential dynamics, and translating them into computational tools and simulations.
+I hold a Ph.D. in theoretical physics, with research at the intersection of high-energy physics, statistical physics, and condensed matter theory. This provided a strong foundation in mathematical modelling and analytical reasoning.
 
-During my Ph.D. I worked at the intersection between high-energy physics, statistical physics, and condensed matter theory. This training provided a strong foundation in mathematical modelling, analytical reasoning, and complex systems.
+I currently work on the development and integration of optimization algorithms for decision intelligence applications.
 
-My current activities focus on the development of advanced modelling and simulation tools for Air Traffic Management and surveillance systems. I lead the technical design and development of a simulator to model ADS-B surveillance behaviour, cyber-threat scenarios such as spoofing and jamming, and the effectiveness of potential countermeasure strategies.
+Previously, I developed modelling and simulation tools for Air Traffic Management, including simulators for surveillance systems and the analysis of cyber-threat scenarios such as spoofing and jamming, along with countermeasure evaluation.
 
 > “If you thought that science was certain - well, that is just an error on your part.”
 > Richard P. Feynman
